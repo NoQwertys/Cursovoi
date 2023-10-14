@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Project1.dproj=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Dodge.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\XL\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.240,=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\XL\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,C:\Users\XL\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\Dodge.dproj=C:\Users\XL\Documents\Embarcadero\Studio\Projects\Курсовой Проект\DodgeTheShapes.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
